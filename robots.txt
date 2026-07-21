@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codesbyayushv.github.io/portfolio/sitemap.xml
