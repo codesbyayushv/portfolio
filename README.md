@@ -2,8 +2,14 @@
 
 Welcome to my personal portfolio repository.
 
-🌐 Live Portfolio
-https://ayushv-portfolio.netlify.app/
+## 🚀 Live Portfolio
+
+🌐 Website: https://ayushv-portfolio.netlify.app/
+
+## 💻 Source Code
+
+📂 GitHub Repository:
+https://github.com/codesbyayushv/portfolio
 
 ## 👨‍💻 About Me
 
@@ -28,17 +34,11 @@ https://ayushv-portfolio.netlify.app/
 ## 📂 Portfolio Features
 
 ✅ Responsive Design
-
 ✅ Download Resume
-
 ✅ About Section
-
 ✅ Skills
-
 ✅ Education
-
 ✅ Contact Information
-
 ✅ Social Media Links
 
 ## 📫 Contact Me
@@ -51,19 +51,14 @@ https://ayushv-portfolio.netlify.app/
 
 ## 🌐 Connect With Me
 
-Portfolio
-https://ayushv-portfolio.netlify.app/
+Portfolio: https://ayushv-portfolio.netlify.app/
 
-GitHub
-https://github.com/codesbyayushv
+GitHub: https://github.com/codesbyayushv
 
-LinkedIn
-https://www.linkedin.com/in/ayush-v-codes-undefined-8533b3423
+LinkedIn: https://www.linkedin.com/in/ayush-v-codes-undefined-8533b3423
 
-Telegram
-https://t.me/codes_by_ayushv
+Telegram: https://t.me/codes_by_ayushv
 
-Facebook
-https://www.facebook.com/share/18X8gCH42D/
+Facebook: https://www.facebook.com/share/18X8gCH42D/
 
 ⭐ Thanks for visiting my repository!
