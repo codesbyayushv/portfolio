@@ -1,37 +1,29 @@
-# 👋 Hi, I'm Ayush Kumar
-
-## 💻 Web Developer | B.Sc Computer Science Student
+# 💻 Web Developer | B.Sc Computer Science Student
 
 Welcome to my personal portfolio repository.
 
-🌐 **Live Portfolio**
-https://codesbyayushv.github.io/portfolio/
-
----
+🌐 Live Portfolio
+https://ayushv-portfolio.netlify.app/
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc Computer Science (1st Year)
-- 🏫 DBS College, Kanpur (CSJMU)
-- 💻 Web Developer
-- 🐍 Learning Python
-- 🤖 Interested in Artificial Intelligence
-- 🌐 HTML, CSS & JavaScript Developer
-
----
+🎓 B.Sc Computer Science (1st Year)
+🏫 DBS College, Kanpur (CSJMU)
+💻 Web Developer
+🐍 Learning Python
+🤖 Interested in Artificial Intelligence
+🌐 HTML, CSS & JavaScript Developer
 
 ## 🛠 Skills
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git & GitHub
-- Responsive Web Design
-- AI Basics
-- MS Office
-
----
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Git & GitHub
+* Responsive Web Design
+* AI Basics
+* MS Office
 
 ## 📂 Portfolio Features
 
@@ -49,24 +41,18 @@ https://codesbyayushv.github.io/portfolio/
 
 ✅ Social Media Links
 
----
-
 ## 📫 Contact Me
 
-📧 Email:
-ayushvcodes143@gmail.com
+📧 Email: [ayushvcodes143@gmail.com](mailto:ayushvcodes143@gmail.com)
 
-📱 Phone:
-+91 9125907861
+📱 Phone: +91 9125907861
 
 📍 Kanpur Nagar, Uttar Pradesh, India
-
----
 
 ## 🌐 Connect With Me
 
 Portfolio
-https://codesbyayushv.github.io/portfolio/
+https://ayushv-portfolio.netlify.app/
 
 GitHub
 https://github.com/codesbyayushv
@@ -79,7 +65,5 @@ https://t.me/codes_by_ayushv
 
 Facebook
 https://www.facebook.com/share/18X8gCH42D/
-
----
 
 ⭐ Thanks for visiting my repository!
