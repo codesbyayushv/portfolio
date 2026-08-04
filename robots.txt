@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
+=======
+User-agent: *
+Allow: /
+
+>>>>>>> dfe001251697aee8248f1a805b8bfd3e3de75a67
 Sitemap: https://codesbyayushv.github.io/portfolio/sitemap.xml
